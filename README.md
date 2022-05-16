@@ -6,7 +6,7 @@ Click the demo to try it out by yourself.
 ## Drum Kit Demo Link
 
 You can view the site here
-[Click Me](https://iamsymbiote.github.io/Dice-Game/)
+[Click Me](https://iamsymbiote.github.io/drumkit/)
 
 ## Topics
 
